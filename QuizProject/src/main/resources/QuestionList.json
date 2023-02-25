@@ -1,0 +1,114 @@
+[
+  {
+    "Correct:": "a",
+    "d:": "Analyzing the cause of failure",
+    "c:": "Comparing actual results to expected results",
+    "b:": "Repairing defects",
+    "a:": "Preventing defects",
+    "Question": "Which of the following is a typical test objective?"
+  },
+  {
+    "Correct:": "d",
+    "d:": "State Transition",
+    "c:": "Data flow testing",
+    "b:": "Branch Coverage",
+    "a:": "Statement Coverage",
+    "Question": "What is the blackbox testing strategy?"
+  },
+  {
+    "Correct:": "a",
+    "d:": "Feature Testing",
+    "c:": "Exploratory Testing",
+    "b:": "Exploratory Testing",
+    "a:": "Adhoc Testing",
+    "Question": "Which testing technique will you apply for root cause analysis?"
+  },
+  {
+    "Correct:": "d",
+    "d:": "After component testing",
+    "c:": "After full system testing",
+    "b:": "After Unit Testing",
+    "a:": "After UI Testing",
+    "Question": "When integration testing should start?"
+  },
+  {
+    "Correct:": "a",
+    "d:": "None",
+    "c:": "Both above",
+    "b:": "When a test has completed",
+    "a:": "When a test level is completed",
+    "Question": "What is the purpose of test closure?"
+  },
+  {
+    "Correct:": "b",
+    "d:": "Stress Testing",
+    "c:": "Volume Testing",
+    "b:": "Capacity Testing",
+    "a:": "Load testing",
+    "Question": "To test a system how much load can a system can take is__"
+  },
+  {
+    "Correct:": "c",
+    "d:": "99% bug free product",
+    "c:": "Both A & B",
+    "b:": "Conformance to requirements",
+    "a:": "Degree of excellence",
+    "Question": "What is quality"
+  },
+  {
+    "Correct:": "a",
+    "d:": "Testing phase",
+    "c:": "Development phase",
+    "b:": "Analysis and design phase",
+    "a:": "Requirement phase",
+    "Question": "Majority of system errors occur in the ------ phase"
+  },
+  {
+    "Correct:": "a",
+    "d:": "Regression Testing",
+    "c:": "Sanity Testing",
+    "b:": "Integration Testing",
+    "a:": "Unit Testing",
+    "Question": "Which testing is done by developer?"
+  },
+  {
+    "Correct:": "c",
+    "d:": "Benchmark Testing",
+    "c:": "Gorilla Testing",
+    "b:": "Load Testing",
+    "a:": "Load Testing",
+    "Question": "Which is functional testing?"
+  },
+  {
+    "Correct:": "b",
+    "d:": "4",
+    "c:": "3",
+    "b:": "2",
+    "a:": "1",
+    "Question": "How many testing types are there?"
+  },
+  {
+    "Correct:": "b",
+    "d:": "none",
+    "c:": "Both",
+    "b:": "Testing level",
+    "a:": "Testing type",
+    "Question": "System testing is a ___"
+  },
+  {
+    "Correct:": "b",
+    "d:": "None",
+    "c:": "Performance testing",
+    "b:": "Equivalence partitioning",
+    "a:": "Statement coverage",
+    "Question": "Which one is a a black box testing technique"
+  },
+  {
+    "Correct:": "a",
+    "d:": "Name",
+    "c:": "Tag",
+    "b:": "Xpath",
+    "a:": "Id",
+    "Question": "What is the most common way to find an element on a page?"
+  }
+]
